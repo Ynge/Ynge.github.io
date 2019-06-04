@@ -95,11 +95,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 #gitment:
-#    owner: mzlogin
-#    repo: blog-comments
-#    oauth:
-#        client_id: d2e1cbbd298958076462
-#        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+   owner: Ynge
+   repo: Ynge.github.io
+   oauth:
+       client_id: ac6b2f7f0a1997c08899
+       client_secret: 5d14b76f0508168102a7ca3268549b1ee6e3692b
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: Ynge
