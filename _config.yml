@@ -94,7 +94,7 @@ comments_provider: gitalk
 disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
-#gitment:
+gitment:
    owner: Ynge
    repo: Ynge.github.io
    oauth:
