@@ -102,10 +102,10 @@ gitment:
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: Ynge
+    repo: Ynge.github.io
+    clientID: ac6b2f7f0a1997c08899
+    clientSecret: 5d14b76f0508168102a7ca3268549b1ee6e3692b
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
