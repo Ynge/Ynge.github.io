@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://Ynge.github.io
 date_format: "ordinal"
-title: 码志
+title: 夏树洋
 subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+description: "夏树洋的个人博客"
+keywords: 夏树洋,ynge,yngee
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: shuyang Xia
 organization: 
 organization_url: 
-github_username: mzlogin
+github_username: Ynge
 location: Wuhan, China
-email: chumpma@gmail.com
+email: xsyyngee@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: Ynge/Ynge.github.io
 
 # ---------------- #
 #      Comments    #
