@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 保持质疑
+keywords: shuyang Xia,夏树洋
 comments: true
 menu: 关于
 permalink: /about/
 ---
-
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+菜鸟码农一枚
+路漫漫其修远兮，吾将上下而求索
 
 ## 联系
 
