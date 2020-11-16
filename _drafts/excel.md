@@ -1,9 +1,0 @@
----
-layout: post
-title: excel处理技巧
-categories: [后端,excel,办公]
-description: excel
-keywords: excel
----
-//libreoffice中文大写金额转换
-IF(TRIM(B4)="","",IF(B4<0,"负","")&IF(INT(ABS(B4)),TEXT(INT(ABS(B4)),"[NatNum5]General")&"元","")&IF(INT(ABS(B4)*10)-INT(ABS(B4))*10,TEXT(INT(ABS(B4)*10)-INT(ABS(B4))*10,"[NatNum5]General")&"角",IF(INT(ABS(B4))=ABS(B4),"",IF(ABS(B4)<0.1,"","零")))&IF(ROUND(ABS(B4)*100-INT(ABS(B4)*10)*10,),TEXT(ROUND(ABS(B4)*100-INT(ABS(B4)*10)*10),"[NatNum5]General")&"分","整"))
